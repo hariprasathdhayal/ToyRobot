@@ -1,0 +1,6 @@
+C:\Hari\Project\ToyRobot\ToyRobot\bin\Debug\ToyRobot.exe.config
+C:\Hari\Project\ToyRobot\ToyRobot\bin\Debug\ToyRobot.exe
+C:\Hari\Project\ToyRobot\ToyRobot\bin\Debug\ToyRobot.pdb
+C:\Hari\Project\ToyRobot\ToyRobot\obj\Debug\ToyRobot.csprojResolveAssemblyReference.cache
+C:\Hari\Project\ToyRobot\ToyRobot\obj\Debug\ToyRobot.exe
+C:\Hari\Project\ToyRobot\ToyRobot\obj\Debug\ToyRobot.pdb
